@@ -18,7 +18,6 @@ const groupsWithContainment = numberArray.filter(
 );
 
 const containmentCount = groupsWithContainment.length;
-
 console.log(containmentCount);
 
 // Part Two
